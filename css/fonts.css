@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "allround";
+  src: url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBookRegular.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBookRegular.woff")
+      format("woff"),
+    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBookRegular.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "allround";
+  src: url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicDemiRegular.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicDemiRegular.woff")
+      format("woff"),
+    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicDemiRegular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "allround";
+  src: url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicMediumRegular.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicMediumRegular.woff")
+      format("woff"),
+    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicMediumRegular.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "allround";
+  src: url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBoldRegular.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBoldRegular.woff")
+      format("woff"),
+    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBoldRegular.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "jfflat";
+  src: url("../webfonts/fonts-file/JFFlat-Light.woff2") format("woff2"),
+    url("../webfonts/fonts-file/JFFlat-Light.woff") format("woff"),
+    url("../webfonts/fonts-file/JFFlat-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "jfflat";
+  src: url("../webfonts/fonts-file/JFFlat-Regular.woff2") format("woff2"),
+    url("../webfonts/fonts-file/JFFlat-Regular.woff") format("woff"),
+    url("../webfonts/fonts-file/JFFlat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "jfflat";
+  src: url("../webfonts/fonts-file/JFFlat-Medium.woff2") format("woff2"),
+    url("../webfonts/fonts-file/JFFlat-Medium.woff") format("woff"),
+    url("../webfonts/fonts-file/JFFlat-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "jfflat";
+  src: url("../webfonts/fonts-file/JFFlat-Bold.woff2") format("woff2"),
+    url("../webfonts/fonts-file/JFFlat-Bold.woff") format("woff"),
+    url("../webfonts/fonts-file/JFFlat-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
