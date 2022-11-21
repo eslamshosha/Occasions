@@ -204,9 +204,9 @@ html[dir="rtl"] .big-menu > li a {
   transition: all 0.3s ease-in-out;
 }
 .request-link:hover {
-  color: var(--white-color);
+  color: var(--main-hover);
   text-decoration: none;
-  background-color: #e2b076;
+  background-color: var(--white-color);
 }
 .nav-head {
   height: 38px;
