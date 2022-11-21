@@ -775,8 +775,8 @@ html[dir="rtl"] .big-menu > li a {
 .services .swiper-pagination .swiper-pagination-bullet {
   width: 6px;
   height: 6px;
-  background-color: var(--white-color);
-  opacity: 0.3;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.5;
   margin: 0 3px;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
