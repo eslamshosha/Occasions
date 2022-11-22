@@ -1,21 +1,21 @@
 @font-face {
   font-family: "allround";
-  src: url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBookRegular.woff2")
+  src: url("../webfonts/fonts-file/AllRoundGothic-Book.woff2")
       format("woff2"),
-    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBookRegular.woff")
+    url("../webfonts/fonts-file/AllRoundGothic-Book.woff")
       format("woff"),
-    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBookRegular.ttf")
+    url("../webfonts/fonts-file/AllRoundGothic-Book.ttf")
       format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 @font-face {
   font-family: "allround";
-  src: url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicDemiRegular.woff2")
+  src: url("../webfonts/fonts-file/AllRoundGothic-Demi.woff2")
       format("woff2"),
-    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicDemiRegular.woff")
+    url("../webfonts/fonts-file/AllRoundGothic-Demi.woff")
       format("woff"),
-    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicDemiRegular.ttf")
+    url("../webfonts/fonts-file/AllRoundGothic-Demi.ttf")
       format("truetype");
   font-weight: 400;
   font-style: normal;
@@ -23,11 +23,11 @@
 
 @font-face {
   font-family: "allround";
-  src: url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicMediumRegular.woff2")
+  src: url("../webfonts/fonts-file/AllRoundGothic-Medium.woff2")
       format("woff2"),
-    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicMediumRegular.woff")
+    url("../webfonts/fonts-file/AllRoundGothic-Medium.woff")
       format("woff"),
-    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicMediumRegular.ttf")
+    url("../webfonts/fonts-file/AllRoundGothic-Medium.ttf")
       format("truetype");
   font-weight: 500;
   font-style: normal;
@@ -35,11 +35,11 @@
 
 @font-face {
   font-family: "allround";
-  src: url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBoldRegular.woff2")
+  src: url("../webfonts/fonts-file/AllRoundGothic-Bold.woff2")
       format("woff2"),
-    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBoldRegular.woff")
+    url("../webfonts/fonts-file/AllRoundGothic-Bold.woff")
       format("woff"),
-    url("../webfonts/fonts-file/FONTSPRINGDEMO-AllRoundGothicBoldRegular.ttf")
+    url("../webfonts/fonts-file/AllRoundGothic-Bold.ttf")
       format("truetype");
   font-weight: 700;
   font-style: normal;
