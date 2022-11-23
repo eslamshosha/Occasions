@@ -1288,6 +1288,9 @@ footer::after {
   justify-content: center;
   align-items: flex-start;
 } */
+.nav-foot{
+  padding: 0;
+}
 .nav-foot-info a,
 .nav-foot-info {
   color: var(--white-color);
